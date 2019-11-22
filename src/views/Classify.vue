@@ -1,7 +1,7 @@
 <template>
-  <div class="home">
+  <div class="classify">
     <div class="box">
-      首页
+      分类
     </div>
     <TabBar :tabs="tabs"/>
   </div>

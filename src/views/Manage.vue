@@ -1,7 +1,7 @@
 <template>
-  <div class="home">
+  <div class="manage">
     <div class="box">
-      首页
+      当家
     </div>
     <TabBar :tabs="tabs"/>
   </div>
